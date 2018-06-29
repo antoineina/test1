@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             //Added a comment1
             //Add comment2
+            //Code to call Feature2
         }
     }
 }
